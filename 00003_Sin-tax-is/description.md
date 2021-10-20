@@ -1,4 +1,4 @@
-Necesitamos que nuestro menú tenga opciones sin tacc. Por eso definimos una lista de ingredientes que no tienen tacc:
+Es muy importante que nuestro menú tenga opciones sin tacc. Por eso definimos una lista de ingredientes que no tienen tacc:
 
 ```python
 ingredientes_sin_tacc = ["tomate", "aceitunas", "cebolla", "carne picada", "lentejas"]
